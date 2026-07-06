@@ -1,0 +1,22 @@
+{
+  "wheel_id": 111,
+  "slug": "homeloanbrokerbrisbane-104",
+  "project": "investment-property-loans-brisbane-how-to-choose-h-104",
+  "parent_t1_ref": "homeloanbrokerbrisbane-002",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokerbrisbane.com.au",
+  "primary_kw": "investment property loans brisbane how to choose",
+  "intended_url": "https://investment-property-loans-brisbane-how-to-choose-h-104.pages.dev/",
+  "links": [
+    {
+      "target_url": "https://investment-property-loans-brisbane-h-150.onrender.com/",
+      "anchor": "investment property loans brisbane",
+      "rel": "follow"
+    },
+    {
+      "target_url": "https://investment-property-loans-brisbane-h-150.onrender.com/",
+      "anchor": "investment property loans brisbane",
+      "rel": "follow"
+    }
+  ]
+}
